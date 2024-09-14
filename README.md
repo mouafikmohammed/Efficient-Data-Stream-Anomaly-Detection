@@ -157,3 +157,4 @@ This project provides a simple, efficient method to detect anomalies in a data s
 - **Error Handling**: Mention of error-handling mechanisms.
 - **Conclusion**: Wrap-up of the project.
 
+<img src="Figure_1.png" alt="Anomaly Detection" width="">
